@@ -14,10 +14,11 @@ PEPPOL enables businesses across Europe to communicate electronically with publi
 
 ## Business rule book & requirements
 
-The rulebook identifies and describes relevant [rules, principles and requirements]() for the use of the Enhanced PEPPOL eDelivery for transport of ISO 20022-based financial messages between the banks and their customers
+The rulebook identifies and describes relevant [rules, principles and requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/rulebook/main.adoc#2-vision-and-objectives) for the use of the Enhanced PEPPOL eDelivery for transport of ISO 20022-based financial messages between the banks and their customers
 
-* Process related messages
+## Process related messages
 
 The three types of [process elements related to  messages](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/processes/readme.md)
 , including handling of acknolowgement and problems within the context of ISO20022 messages.
+
 ## [Glossary](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/vocabulary/main.adoc)
