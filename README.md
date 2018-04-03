@@ -1,6 +1,6 @@
 # PEPPOL - Making procurement better
 
-PEPPOL enables businesses across Europe to communicate electronically with public buyers in various stages of the procurement process, it utilises [ISO20022](https://www.iso20022.org/payments_dashboard.page) payment messages for this service and the [following Banks](https://vefa.difi.no/iso20022/) are part of this agreement.
+[PEPPOL](http://peppol.eu/) enables businesses across Europe to communicate electronically with public buyers in various stages of the procurement process, it utilises [ISO20022](https://www.iso20022.org/payments_dashboard.page) payment messages for this service and the [following Banks](https://vefa.difi.no/iso20022/) are part of this agreement.
 
 * [Release Management](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/release-management/main.adoc)
 
