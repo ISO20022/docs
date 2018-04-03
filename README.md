@@ -33,7 +33,10 @@ PEPPOL Access Points connect users to the PEPPOL network and exchange electronic
   The three types of [process elements related to  messages](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/processes/readme.md)
 , including handling of acknolowgement and problems within the context of ISO20022 messages.
 
-## [Glossary](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/vocabulary/main.adoc)
+## Glossary
 
+* [Peppol ISO20022 Glossary](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/vocabulary/main.adoc)
 
-ADoc-Documents were prepared for the following [process tool](https://github.com/asciidoctor/docker-asciidoctor)
+## Tools
+
+* ADoc-Documents were prepared for the following [process tool](https://github.com/asciidoctor/docker-asciidoctor)
