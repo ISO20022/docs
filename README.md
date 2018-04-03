@@ -4,17 +4,17 @@ PEPPOL enables businesses across Europe to communicate electronically with publi
 
 * [Release Management](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/release-management/main.adoc)
 
-## Technical Requirements
-
-[Service level requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/requirements-ap/main.adoc) for providers of PEPPOL Access Points services in the Enhanced PEPPOL eDelivery network.
-
-## Additional Security Requirements
-
-[Minimum security requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/security/main.adoc#security-requirements-for-secure-file-transactions) for data transport in the financial industry.
-
 ## Business rule book & requirements
 
 The rulebook identifies and describes relevant [rules, principles and requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/rulebook/main.adoc#2-vision-and-objectives) for the use of the Enhanced PEPPOL eDelivery for transport of ISO 20022-based financial messages between the banks and their customers
+
+## Technical Requirements
+
+[Service level requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/requirements-ap/main.adoc#scope-for-this-document) for providers of PEPPOL Access Points services in the Enhanced PEPPOL eDelivery network.
+
+## Additional Security Requirements
+
+[Minimum security requirements](https://github.com/ISO20022/iso20022-docs-peppol/blob/master/security/main.adoc#27-purpose) for data transport in the financial industry.
 
 ## Process related messages
 
