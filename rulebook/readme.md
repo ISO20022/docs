@@ -1,0 +1,1 @@
+The scope of this rulebook is to identify and describe relevant rules, principles and requirements for the use of the Enhanced PEPPOL eDelivery for transport of ISO 20022-based financial messages between the banks and their customers
